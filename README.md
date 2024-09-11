@@ -67,14 +67,14 @@ const breakfastNumberInputs = document.querySelectorAll('#breakfast input[type=n
 }
 ```
 
-#Features
+# Features
 
 1. Customizable calorie budget: Users can set their own daily calorie goal.
 2. Multiple entry categories: Breakfast, lunch, dinner, snacks, exercise.
 3. Clear output: Results are displayed in an easy-to-understand format.
 4. Input validation: Prevents calculation errors.
 
-#Technologies Used
+# Technologies Used
 1. HTML: For the page structure.
 2. CSS: For styling the page.
 3. JavaScript: For the application logic.
