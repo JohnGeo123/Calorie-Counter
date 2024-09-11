@@ -65,6 +65,7 @@ const breakfastNumberInputs = document.querySelectorAll('#breakfast input[type=n
 
   output.classList.remove('hide');
 }
+```
 
 #Features
 
